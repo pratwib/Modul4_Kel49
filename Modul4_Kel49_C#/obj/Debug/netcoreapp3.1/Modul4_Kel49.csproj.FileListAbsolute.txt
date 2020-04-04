@@ -1,0 +1,11 @@
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\bin\Debug\netcoreapp3.1\Modul4_Kel49.exe
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\bin\Debug\netcoreapp3.1\Modul4_Kel49.deps.json
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\bin\Debug\netcoreapp3.1\Modul4_Kel49.runtimeconfig.json
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\bin\Debug\netcoreapp3.1\Modul4_Kel49.runtimeconfig.dev.json
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\bin\Debug\netcoreapp3.1\Modul4_Kel49.dll
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\bin\Debug\netcoreapp3.1\Modul4_Kel49.pdb
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\obj\Debug\netcoreapp3.1\Modul4_Kel49.csprojAssemblyReference.cache
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\obj\Debug\netcoreapp3.1\Modul4_Kel49.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\obj\Debug\netcoreapp3.1\Modul4_Kel49.AssemblyInfo.cs
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\obj\Debug\netcoreapp3.1\Modul4_Kel49.dll
+D:\VISUAL STUDIO\Praktikum DKP Modul 4\Modul4_Kel49\obj\Debug\netcoreapp3.1\Modul4_Kel49.pdb
